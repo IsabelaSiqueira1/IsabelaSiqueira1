@@ -1,6 +1,10 @@
 ## - 👋 Olá, eu sou a Isa!
 - 👨‍💻 Atualmente sou Analista de sistema na @Stone|Ton.
 - 📚 Graduada em Análise e Desenvolvimento de Sistemasos
+- 
+###
+ ## Conecte-se comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/isabela-siqueira-28a85a17b/)
 
 ## ⚡ Tecnologias
 <div align="left">
@@ -12,6 +16,3 @@
   <img width="12" />
 </div>
 
-###
- ## Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/isabela-siqueira-28a85a17b/)
