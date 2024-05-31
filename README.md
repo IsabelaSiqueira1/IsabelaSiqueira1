@@ -14,6 +14,7 @@ const Isa = {
                    "javascript"
          ]},
         backEnd: {[
+             "nodeJS"
         ]},
     },
     currentlyStudying: [
