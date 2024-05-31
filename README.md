@@ -17,7 +17,7 @@ const Isa = {
         ]},
     },
     currentlyStudying: [
-        ""nodeJS"",
+        "nodeJS",
     ],
 };
 ```
