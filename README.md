@@ -14,11 +14,10 @@ const Isa = {
                    "javascript"
          ]},
         backEnd: {[
-             "nodeJS"
         ]},
     },
     currentlyStudying: [
-        "ReactJs",
+        ""nodeJS"",
     ],
 };
 ```
