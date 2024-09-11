@@ -3,7 +3,7 @@
 ```javascript
 const Isa = {
     fullName: "Isabela Siqueira",
-    age: "22 years",
+    age: "23 years",
     nationality: "Brazilian",
     training: "analysis and systems development",
     code: ["JavaScript"],
@@ -11,13 +11,14 @@ const Isa = {
         frontEnd: {[
                    "html5",
                    "css3",
-                   "javascript"
          ]},
         backEnd: {[
+                "Nodejs",
+                "Docker",
+                "PostgresSQL"
         ]},
     },
     currentlyStudying: [
-        "nodeJS",
     ],
 };
 ```
